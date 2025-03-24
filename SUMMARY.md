@@ -4,6 +4,8 @@
 
 * [Accounts](accounts/)
     * [Add an account](accounts/add-an-account.md)
+    * [Managing second factors for your accounts](managing-second-factors-accounts/)
+        * [How to forward a message from your Cerby inbox](how-to-forward-a-message-from-your-cerby-inbox.md)
 * [Secrets](secrets/)
     * [Add a secret](secrets/add-a-secret.md)
 * [Workspace Configuration](workspace-configuration/)
